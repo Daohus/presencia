@@ -1,0 +1,2 @@
+# INICIAR
+node .
